@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Shivam Pandey
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning MERN Technology
+- 👀 I’m interested in Web Development and APP Development
+- 🌱 I’m currently Working in MERN Technology
 - 💞️ I’m looking to collaborate on Web Development 
 - 📫 How to reach me shivampandey07422@gmail.com
 
